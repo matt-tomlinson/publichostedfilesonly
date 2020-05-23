@@ -1,0 +1,19 @@
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+	<course id="https://lko-ptdv-app07.yoda.local/cmi5/cmi5AUSimulator/course">
+		<title>
+			<langstring lang="en-US">CMI5 Simulator Course &amp;</langstring>
+		</title>
+		<description>
+			<langstring lang="en-US">CMI5 Simulator Course &amp;</langstring>
+		</description>
+	</course>
+	<au id="https://lko-ptdv-app07.yoda.local/cmi5/cmi5AUSimulator/001" masteryScore="1.0" launchMethod="AnyWindow" moveOn="CompletedOrPassed">
+		<title>
+			<langstring lang="en-US">CMI5 Simulator &amp;</langstring>
+		</title>
+		<description>
+			<langstring lang="en-US">CMI5 Simulator &amp;</langstring>
+		</description>
+		<url>./cmi5AUSimulator.html</url>
+	</au>
+</courseStructure>
